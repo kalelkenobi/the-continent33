@@ -1,1 +1,1 @@
-![[../../../media/I'm Just a Kid.jpg]]
+![[../../../media/I'm Just a Kid.jpg]]![[../../../media/prova3.png]]
