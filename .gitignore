@@ -1,0 +1,5 @@
+.DS_Store
+*/.obsidian
+*.obsidian
+*.com-apple*
+desktop.ini

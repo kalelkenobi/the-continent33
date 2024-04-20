@@ -1,0 +1,4 @@
+- il suo nome compare in un messaggio ritrovato sull'[[../../Luoghi/Redania/Redania - Isola di Inis]] 
+- "[[../Isola di Inis/Clarota]] , sono contento di sapere che gli esperimenti proseguono bene. L'obelisco deve essere liberato entro settimana prossima."
+- Nelle sue lettere era disegnato un oroboro con una gemma blu
+- "quando il continente verrá strappato alle creature della superficie, avrai la tua ricompensa"

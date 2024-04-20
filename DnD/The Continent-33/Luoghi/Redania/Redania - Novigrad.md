@@ -1,0 +1,3 @@
+- Fuoco Eterno
+- Incube Elégant
+- Lista NPCs incontrati: [[../../NPCs/Novigrad/Novigrad]] 

@@ -1,0 +1,6 @@
+![[../../../../../media/ulvana.png|200]]
+- [[Clan Tuirseach]] 
+- attuale regina di [[../../../Luoghi/Skellige Islands/Ard Skellig]]
+- vedova di [[../Clan An Craite/Crados An Craite]] 
+- madre di [[../../Morso di rame/Kelon an Craite]] 
+- moglie di [[../Clan Fraser/James Fraser]] 

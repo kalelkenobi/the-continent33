@@ -1,0 +1,1 @@
+![[../../../../media/voce_dei_monti.png|300]]

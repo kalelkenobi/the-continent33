@@ -1,0 +1,12 @@
+![[../../../../media/Tiggy.png|200]]
+- Taygete Fraser
+- nata il 20 maggio 1445
+- figlia di [[../Clan Skellige/Clan Fraser/James Fraser]] e [[../Nimue]] 
+- [[../Clan Fraser]] 
+- originaria di [[../../Luoghi/Skellige Islands/Spikeroog]] 
+- ha lavorato alla [[../../Luoghi/Redania/Redania - Scuola di Baldhorn]], in cui faceva ricerca con [[../Scuola di Baldhorn/Erik Rary]] 
+- appartenente al circolo delle stelle ([[../Circolo delle Stelle - Spikeroog/Enrel an Otho]])
+- fratello: [[Kelon an Craite]] 
+- cavallo: Lassie
+- Aasimar
+- Druido

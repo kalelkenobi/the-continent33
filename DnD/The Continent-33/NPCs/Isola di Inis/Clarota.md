@@ -1,0 +1,3 @@
+- Mittente/destinatario di una comunicazione con [[Malachai]] ritrovata vicino l'obelisco sull'[[../../Luoghi/Redania/Redania - Isola di Inis]] 
+- pare essere colui che era stato incaricato di "liberare" l'obelisco
+- sul dispositivo utilizzato per comunicare era disegnato un oroboro con di fianco una gemma rossa

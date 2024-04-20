@@ -1,0 +1,5 @@
+- umana?
+- rogue
+- capitano dell'Annabelle Lee
+- incontrata a [[../../Luoghi/Redania/Redania - Roggeven]], accompagna il gruppo sull'[[../../Luoghi/Redania/Redania - Isola di Inis]] 
+- accompagna il gruppo anche a [[../../Luoghi/Skellige Islands/Kaer Trolde]] 
