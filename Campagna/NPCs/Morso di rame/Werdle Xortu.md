@@ -1,4 +1,4 @@
-![[../../../media/Werdle-Xortu.webp|400]]
+![[../../../media/Werdle-Xortu.png|400]]
 - Turtle
 - rogue, intorno ai 200 anni
 - cavallo: Rusty
