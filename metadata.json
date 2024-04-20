@@ -690,8 +690,8 @@
     ]
   },
   {
-    "fileName": "Valafar",
-    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Valafar.md",
+    "fileName": "Rhu",
+    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Rhu.md",
     "links": [
       {
         "link": "Kaedwen - Kaer Morhen",
@@ -701,8 +701,8 @@
     ]
   },
   {
-    "fileName": "Rhu",
-    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Rhu.md",
+    "fileName": "Valafar",
+    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Valafar.md",
     "links": [
       {
         "link": "Kaedwen - Kaer Morhen",
@@ -1256,6 +1256,17 @@
     ]
   },
   {
+    "fileName": "Boscoargenteo",
+    "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Boscoargenteo.md",
+    "links": [
+      {
+        "link": "Hindarfsjall",
+        "displayText": "../../Luoghi/Skellige Islands/Hindarfsjall",
+        "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md"
+      }
+    ]
+  },
+  {
     "fileName": "Circolo della Luna - Hindarfsjall",
     "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall.md",
     "backlinks": [
@@ -1264,17 +1275,6 @@
         "link": "Circolo della Luna - Hindarfsjall",
         "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md",
         "displayText": "../../NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall"
-      }
-    ]
-  },
-  {
-    "fileName": "Boscoargenteo",
-    "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Boscoargenteo.md",
-    "links": [
-      {
-        "link": "Hindarfsjall",
-        "displayText": "../../Luoghi/Skellige Islands/Hindarfsjall",
-        "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md"
       }
     ]
   },
@@ -1354,6 +1354,25 @@
     ]
   },
   {
+    "fileName": "Isola di Thanedd",
+    "relativePath": "Campagna/Luoghi/Temeria/Isola di Thanedd.md",
+    "links": [
+      {
+        "link": "Obelischi",
+        "displayText": "../Obelischi",
+        "relativePath": "Campagna/Luoghi/Obelischi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Obelischi",
+        "link": "Isola di Thanedd",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Temeria/Isola di Thanedd"
+      }
+    ]
+  },
+  {
     "fileName": "Mahakam",
     "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md",
     "links": [
@@ -1375,25 +1394,6 @@
         "link": "Mahakam",
         "relativePath": "Campagna/Luoghi/Obelischi.md",
         "displayText": "Temeria/Mahakam"
-      }
-    ]
-  },
-  {
-    "fileName": "Isola di Thanedd",
-    "relativePath": "Campagna/Luoghi/Temeria/Isola di Thanedd.md",
-    "links": [
-      {
-        "link": "Obelischi",
-        "displayText": "../Obelischi",
-        "relativePath": "Campagna/Luoghi/Obelischi.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Obelischi",
-        "link": "Isola di Thanedd",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Temeria/Isola di Thanedd"
       }
     ]
   },
@@ -1469,59 +1469,6 @@
     ]
   },
   {
-    "fileName": "Kaer Trolde",
-    "relativePath": "Campagna/Luoghi/Skellige Islands/Kaer Trolde.md",
-    "backlinks": [
-      {
-        "fileName": "Sheila Coppertree",
-        "link": "Kaer Trolde",
-        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
-        "displayText": "../../Luoghi/Skellige Islands/Kaer Trolde"
-      },
-      {
-        "fileName": "Kelon an Craite",
-        "link": "Kaer Trolde",
-        "relativePath": "Campagna/NPCs/Morso di rame/Kelon an Craite.md",
-        "displayText": "../../Luoghi/Skellige Islands/Kaer Trolde"
-      },
-      {
-        "fileName": "James Fraser",
-        "link": "Kaer Trolde",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md",
-        "displayText": "../../../Luoghi/Skellige Islands/Kaer Trolde"
-      },
-      {
-        "fileName": "Ard Skellig",
-        "link": "Kaer Trolde",
-        "relativePath": "Campagna/Luoghi/Skellige Islands/Ard Skellig.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Isle of Mist",
-    "relativePath": "Campagna/Luoghi/Skellige Islands/Isle of Mist.md",
-    "backlinks": [
-      {
-        "fileName": "Sarin",
-        "link": "Isle of Mist",
-        "relativePath": "Campagna/NPCs/616/Sarin.md",
-        "displayText": "../../Luoghi/Skellige Islands/Isle of Mist"
-      },
-      {
-        "fileName": "Rex",
-        "link": "Isle of Mist",
-        "relativePath": "Campagna/NPCs/616/Rex.md",
-        "displayText": "../../Luoghi/Skellige Islands/Isle of Mist"
-      },
-      {
-        "fileName": "Obelischi",
-        "link": "Isle of Mist",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Skellige Islands/Isle of Mist"
-      }
-    ]
-  },
-  {
     "fileName": "Hindarfsjall",
     "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md",
     "links": [
@@ -1558,6 +1505,59 @@
         "link": "Hindarfsjall",
         "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Boscoargenteo.md",
         "displayText": "../../Luoghi/Skellige Islands/Hindarfsjall"
+      }
+    ]
+  },
+  {
+    "fileName": "Isle of Mist",
+    "relativePath": "Campagna/Luoghi/Skellige Islands/Isle of Mist.md",
+    "backlinks": [
+      {
+        "fileName": "Sarin",
+        "link": "Isle of Mist",
+        "relativePath": "Campagna/NPCs/616/Sarin.md",
+        "displayText": "../../Luoghi/Skellige Islands/Isle of Mist"
+      },
+      {
+        "fileName": "Rex",
+        "link": "Isle of Mist",
+        "relativePath": "Campagna/NPCs/616/Rex.md",
+        "displayText": "../../Luoghi/Skellige Islands/Isle of Mist"
+      },
+      {
+        "fileName": "Obelischi",
+        "link": "Isle of Mist",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Skellige Islands/Isle of Mist"
+      }
+    ]
+  },
+  {
+    "fileName": "Kaer Trolde",
+    "relativePath": "Campagna/Luoghi/Skellige Islands/Kaer Trolde.md",
+    "backlinks": [
+      {
+        "fileName": "Sheila Coppertree",
+        "link": "Kaer Trolde",
+        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
+        "displayText": "../../Luoghi/Skellige Islands/Kaer Trolde"
+      },
+      {
+        "fileName": "Kelon an Craite",
+        "link": "Kaer Trolde",
+        "relativePath": "Campagna/NPCs/Morso di rame/Kelon an Craite.md",
+        "displayText": "../../Luoghi/Skellige Islands/Kaer Trolde"
+      },
+      {
+        "fileName": "James Fraser",
+        "link": "Kaer Trolde",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md",
+        "displayText": "../../../Luoghi/Skellige Islands/Kaer Trolde"
+      },
+      {
+        "fileName": "Ard Skellig",
+        "link": "Kaer Trolde",
+        "relativePath": "Campagna/Luoghi/Skellige Islands/Ard Skellig.md"
       }
     ]
   },
@@ -1707,40 +1707,6 @@
     ]
   },
   {
-    "fileName": "Redania - Roggeven",
-    "relativePath": "Campagna/Luoghi/Redania/Redania - Roggeven.md",
-    "links": [
-      {
-        "link": "Redania - Isola di Inis",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
-      },
-      {
-        "link": "Roggeven",
-        "displayText": "../../NPCs/Roggeven/Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Roggeven.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sheila Coppertree",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
-        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
-      },
-      {
-        "fileName": "Benji Frogwater",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Benji Frogwater.md",
-        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
-      },
-      {
-        "fileName": "Redania - Isola di Inis",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
-      }
-    ]
-  },
-  {
     "fileName": "Redania - Novigrad",
     "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md",
     "links": [
@@ -1796,21 +1762,36 @@
     ]
   },
   {
-    "fileName": "Redania - Largo di Novigrad",
-    "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
+    "fileName": "Redania - Roggeven",
+    "relativePath": "Campagna/Luoghi/Redania/Redania - Roggeven.md",
     "links": [
       {
-        "link": "Obelischi",
-        "displayText": "../Obelischi",
-        "relativePath": "Campagna/Luoghi/Obelischi.md"
+        "link": "Redania - Isola di Inis",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
+      },
+      {
+        "link": "Roggeven",
+        "displayText": "../../NPCs/Roggeven/Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Roggeven.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Obelischi",
-        "link": "Redania - Largo di Novigrad",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Redania/Redania - Largo di Novigrad"
+        "fileName": "Sheila Coppertree",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
+        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
+      },
+      {
+        "fileName": "Benji Frogwater",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Benji Frogwater.md",
+        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
+      },
+      {
+        "fileName": "Redania - Isola di Inis",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
       }
     ]
   },
@@ -1909,6 +1890,25 @@
     ]
   },
   {
+    "fileName": "Redania - Largo di Novigrad",
+    "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
+    "links": [
+      {
+        "link": "Obelischi",
+        "displayText": "../Obelischi",
+        "relativePath": "Campagna/Luoghi/Obelischi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Obelischi",
+        "link": "Redania - Largo di Novigrad",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Redania/Redania - Largo di Novigrad"
+      }
+    ]
+  },
+  {
     "fileName": "Obelischi",
     "relativePath": "Campagna/Luoghi/Obelischi.md",
     "links": [
@@ -1960,27 +1960,27 @@
     ],
     "backlinks": [
       {
-        "fileName": "Mahakam",
-        "link": "Obelischi",
-        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md",
-        "displayText": "../Obelischi"
-      },
-      {
         "fileName": "Isola di Thanedd",
         "link": "Obelischi",
         "relativePath": "Campagna/Luoghi/Temeria/Isola di Thanedd.md",
         "displayText": "../Obelischi"
       },
       {
-        "fileName": "Redania - Largo di Novigrad",
+        "fileName": "Mahakam",
         "link": "Obelischi",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
+        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md",
         "displayText": "../Obelischi"
       },
       {
         "fileName": "Redania - Isola di Inis",
         "link": "Obelischi",
         "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md",
+        "displayText": "../Obelischi"
+      },
+      {
+        "fileName": "Redania - Largo di Novigrad",
+        "link": "Obelischi",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
         "displayText": "../Obelischi"
       },
       {
@@ -2087,15 +2087,15 @@
         "displayText": "../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
       },
       {
-        "fileName": "Valafar",
-        "link": "Kaedwen - Kaer Morhen",
-        "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Valafar.md",
-        "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
-      },
-      {
         "fileName": "Rhu",
         "link": "Kaedwen - Kaer Morhen",
         "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Rhu.md",
+        "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
+      },
+      {
+        "fileName": "Valafar",
+        "link": "Kaedwen - Kaer Morhen",
+        "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Valafar.md",
         "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
       },
       {
