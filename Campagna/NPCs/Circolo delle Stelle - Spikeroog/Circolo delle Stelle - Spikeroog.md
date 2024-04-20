@@ -1,1 +1,1 @@
-- Primo Druido - [[Enrel an Otho]], un'elfa molto vecchia
+-![[../../../media/Enrel an Otho.png]] Primo Druido - [[Enrel an Otho]], un'elfa molto vecchia

@@ -965,6 +965,16 @@
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Tordarroch/Clan Tordarroch.md"
   },
   {
+    "fileName": "Ian Faser",
+    "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/Ian Faser.md",
+    "links": [
+      {
+        "link": "Clan Fraser",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/Clan Fraser.md"
+      }
+    ]
+  },
+  {
     "fileName": "James Fraser",
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md",
     "links": [
@@ -1063,6 +1073,11 @@
     ],
     "backlinks": [
       {
+        "fileName": "Ian Faser",
+        "link": "Clan Fraser",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/Ian Faser.md"
+      },
+      {
         "fileName": "James Fraser",
         "link": "Clan Fraser",
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
@@ -1081,6 +1096,10 @@
   {
     "fileName": "Clan Dimun",
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Dimun/Clan Dimun.md"
+  },
+  {
+    "fileName": "Briant an Craite",
+    "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Briant an Craite.md"
   },
   {
     "fileName": "Crados An Craite",
