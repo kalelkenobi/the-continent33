@@ -1,6 +1,6 @@
 ```leaflet
 id: continent-map
-image: [[../../../media/continent_map.jpg]]
+image: [[]]
 height: 600px
 lat: 50
 long: 50
