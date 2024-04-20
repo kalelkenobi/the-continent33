@@ -1,4 +1,4 @@
-![[../../../../media/Tiggy.png|200]]
+![[../../../media/Tiggy.png|300]]
 - Taygete Fraser
 - nata il 20 maggio 1445
 - figlia di [[../Clan Skellige/Clan Fraser/James Fraser]] e [[../Nimue]] 

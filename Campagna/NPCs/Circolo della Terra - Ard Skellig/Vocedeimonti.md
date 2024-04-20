@@ -1,1 +1,1 @@
-![[../../../../media/voce_dei_monti.png|300]]
+![[../../../media/voce_dei_monti.png|300]]

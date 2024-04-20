@@ -1,4 +1,4 @@
-![[../../../../../media/Megren.jpg|200]]
+![[../../../../media/Megren.jpg|300]]
 - Artiglio di drago (consiglio dei 9) [[../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen]]
 - paladina di Bahamut
 - dragonide, circa 40 anni

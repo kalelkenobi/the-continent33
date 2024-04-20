@@ -1,4 +1,4 @@
-![[../../../../media/Kazur.png|200]]
+![[../../../media/Kazur.png|300]]
 - Dragonide, 20 anni
 - paladino
 - cresciuto a [[../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen]] da [[../Kaer Morhen/K]]

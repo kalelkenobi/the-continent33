@@ -1,4 +1,4 @@
-![[../../../../../media/james.png|300]]
+![[../../../../media/james.png|400]]
 - [[Clan Fraser]] 
 - nato l'1 maggio 1425
 - originario di [[../../../Luoghi/Skellige Islands/Spikeroog]]

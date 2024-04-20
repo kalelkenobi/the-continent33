@@ -1,4 +1,4 @@
-![[../../../../media/Alberich-Fireforge.webp|200]]
+![[../../../media/Alberich-Fireforge.webp|300]]
 
 - Nano
 - Druido devoto alla conoscenza

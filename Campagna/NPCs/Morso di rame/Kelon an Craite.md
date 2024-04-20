@@ -1,4 +1,4 @@
-![[../../../../media/Kelon.png|400]]
+![[../../../media/Kelon.png|400]]
 
 - umano, 35 anni
 - guerriero

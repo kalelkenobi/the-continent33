@@ -1,4 +1,4 @@
-![[../../../../../media/ulvana.png|200]]
+![[../../../../media/ulvana.png|400]]
 - [[Clan Tuirseach]] 
 - attuale regina di [[../../../Luoghi/Skellige Islands/Ard Skellig]]
 - vedova di [[../Clan An Craite/Crados An Craite]] 
