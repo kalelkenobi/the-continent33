@@ -1,38 +1,7 @@
 [
   {
-    "fileName": "Thrmon Aavind",
-    "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
-    "links": [
-      {
-        "link": "Redania - Novigrad",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Alberich Fireforge",
-    "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
-    "links": [
-      {
-        "link": "Redania - Novigrad",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
-      },
-      {
-        "link": "Mahakam",
-        "displayText": "../../Luoghi/Temeria/Mahakam",
-        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md"
-      }
-    ]
-  },
-  {
     "fileName": "Zelda Meinard",
     "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Zelda Meinard.md"
-  },
-  {
-    "fileName": "Heidar Leifson",
-    "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Heidar Leifson.md"
   },
   {
     "fileName": "Vince Stellar",
@@ -97,6 +66,10 @@
         "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
       }
     ]
+  },
+  {
+    "fileName": "Heidar Leifson",
+    "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Heidar Leifson.md"
   },
   {
     "fileName": "Eveline Bardi",
@@ -219,6 +192,40 @@
     ]
   },
   {
+    "fileName": "Nimue",
+    "relativePath": "Campagna/NPCs/Nimue.md",
+    "links": [
+      {
+        "link": "Taygete Fraser",
+        "displayText": "Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
+      },
+      {
+        "link": "James Fraser",
+        "displayText": "Clan Skellige/Clan Fraser/James Fraser",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
+      },
+      {
+        "link": "Taygete Fraser",
+        "displayText": "Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Taygete Fraser",
+        "link": "Nimue",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
+        "displayText": "../Nimue"
+      },
+      {
+        "fileName": "James Fraser",
+        "link": "Nimue",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
+      }
+    ]
+  },
+  {
     "fileName": "Ron Demollert",
     "relativePath": "Campagna/NPCs/Novigrad/Ron Demollert.md",
     "links": [
@@ -302,42 +309,23 @@
     ]
   },
   {
-    "fileName": "Nimue",
-    "relativePath": "Campagna/NPCs/Nimue.md",
+    "fileName": "Werdle Xortu",
+    "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
     "links": [
       {
-        "link": "Taygete Fraser",
-        "displayText": "Morso di rame/Taygete Fraser",
-        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
-      },
-      {
-        "link": "James Fraser",
-        "displayText": "Clan Skellige/Clan Fraser/James Fraser",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
-      },
-      {
-        "link": "Taygete Fraser",
-        "displayText": "Morso di rame/Taygete Fraser",
-        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
+        "link": "Redania - Scuola di Baldhorn",
+        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Taygete Fraser",
-        "link": "Nimue",
-        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
-        "displayText": "../Nimue"
-      },
-      {
-        "fileName": "James Fraser",
-        "link": "Nimue",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
+        "fileName": "Rake",
+        "link": "Werdle Xortu",
+        "relativePath": "Campagna/NPCs/Kaer Morhen/Rake.md",
+        "displayText": "Morso di rame/Werdle Xortu"
       }
     ]
-  },
-  {
-    "fileName": "Morso di rame",
-    "relativePath": "Campagna/NPCs/Morso di rame/Morso di rame.md"
   },
   {
     "fileName": "Taygete Fraser",
@@ -427,23 +415,8 @@
     ]
   },
   {
-    "fileName": "Werdle Xortu",
-    "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
-    "links": [
-      {
-        "link": "Redania - Scuola di Baldhorn",
-        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Rake",
-        "link": "Werdle Xortu",
-        "relativePath": "Campagna/NPCs/Kaer Morhen/Rake.md",
-        "displayText": "Morso di rame/Werdle Xortu"
-      }
-    ]
+    "fileName": "Morso di rame",
+    "relativePath": "Campagna/NPCs/Morso di rame/Morso di rame.md"
   },
   {
     "fileName": "Kelon an Craite",
@@ -665,15 +638,15 @@
     "relativePath": "Campagna/NPCs/Kaer Morhen/Kaer Morhen.md",
     "backlinks": [
       {
-        "fileName": "Kaedwen - Kaer Morhen",
-        "link": "Kaer Morhen",
-        "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Kaer Morhen.md",
-        "displayText": "../../NPCs/Kaer Morhen/Kaer Morhen"
-      },
-      {
         "fileName": "Kaedwen - Ard  Carraigh",
         "link": "Kaer Morhen",
         "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Ard  Carraigh.md",
+        "displayText": "../../NPCs/Kaer Morhen/Kaer Morhen"
+      },
+      {
+        "fileName": "Kaedwen - Kaer Morhen",
+        "link": "Kaer Morhen",
+        "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Kaer Morhen.md",
         "displayText": "../../NPCs/Kaer Morhen/Kaer Morhen"
       }
     ]
@@ -720,8 +693,8 @@
     ]
   },
   {
-    "fileName": "Nicolas",
-    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nicolas.md",
+    "fileName": "Nyx",
+    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nyx.md",
     "links": [
       {
         "link": "Kaedwen - Kaer Morhen",
@@ -731,8 +704,8 @@
     ]
   },
   {
-    "fileName": "Nyx",
-    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nyx.md",
+    "fileName": "Nicolas",
+    "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nicolas.md",
     "links": [
       {
         "link": "Kaedwen - Kaer Morhen",
@@ -882,6 +855,33 @@
     ]
   },
   {
+    "fileName": "Thrmon Aavind",
+    "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
+    "links": [
+      {
+        "link": "Redania - Novigrad",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Alberich Fireforge",
+    "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
+    "links": [
+      {
+        "link": "Redania - Novigrad",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
+      },
+      {
+        "link": "Mahakam",
+        "displayText": "../../Luoghi/Temeria/Mahakam",
+        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md"
+      }
+    ]
+  },
+  {
     "fileName": "Ulvana Tuirseach",
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Tuirseach/Ulvana Tuirseach.md",
     "links": [
@@ -959,10 +959,6 @@
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan Tuirseach/Ulvana Tuirseach.md"
       }
     ]
-  },
-  {
-    "fileName": "Clan Tordarroch",
-    "relativePath": "Campagna/NPCs/Clan Skellige/Clan Tordarroch/Clan Tordarroch.md"
   },
   {
     "fileName": "James Fraser",
@@ -1075,12 +1071,39 @@
     ]
   },
   {
+    "fileName": "Clan Tordarroch",
+    "relativePath": "Campagna/NPCs/Clan Skellige/Clan Tordarroch/Clan Tordarroch.md"
+  },
+  {
     "fileName": "Clan Drummond",
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Drummond/Clan Drummond.md"
   },
   {
     "fileName": "Clan Dimun",
     "relativePath": "Campagna/NPCs/Clan Skellige/Clan Dimun/Clan Dimun.md"
+  },
+  {
+    "fileName": "Clan An Craite",
+    "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Clan An Craite.md",
+    "links": [
+      {
+        "link": "Ard Skellig",
+        "displayText": "../../../Luoghi/Skellige Islands/Ard Skellig",
+        "relativePath": "Campagna/Luoghi/Skellige Islands/Ard Skellig.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Crados An Craite",
+        "link": "Clan An Craite",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Crados An Craite.md"
+      },
+      {
+        "fileName": "Bjorr an Craite",
+        "link": "Clan An Craite",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Bjorr an Craite.md"
+      }
+    ]
   },
   {
     "fileName": "Crados An Craite",
@@ -1128,29 +1151,6 @@
       {
         "fileName": "Bjorr an Craite",
         "link": "Crados An Craite",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Bjorr an Craite.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Clan An Craite",
-    "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Clan An Craite.md",
-    "links": [
-      {
-        "link": "Ard Skellig",
-        "displayText": "../../../Luoghi/Skellige Islands/Ard Skellig",
-        "relativePath": "Campagna/Luoghi/Skellige Islands/Ard Skellig.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Crados An Craite",
-        "link": "Clan An Craite",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Crados An Craite.md"
-      },
-      {
-        "fileName": "Bjorr an Craite",
-        "link": "Clan An Craite",
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Bjorr an Craite.md"
       }
     ]
@@ -1213,23 +1213,6 @@
     ]
   },
   {
-    "fileName": "Enrel an Otho",
-    "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Enrel an Otho.md",
-    "backlinks": [
-      {
-        "fileName": "Taygete Fraser",
-        "link": "Enrel an Otho",
-        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
-        "displayText": "../Circolo delle Stelle - Spikeroog/Enrel an Otho"
-      },
-      {
-        "fileName": "Circolo delle Stelle - Spikeroog",
-        "link": "Enrel an Otho",
-        "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Circolo delle Stelle - Spikeroog.md"
-      }
-    ]
-  },
-  {
     "fileName": "Circolo delle Stelle - Spikeroog",
     "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Circolo delle Stelle - Spikeroog.md",
     "links": [
@@ -1248,13 +1231,19 @@
     ]
   },
   {
-    "fileName": "Iseldir di Harviken",
-    "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Iseldir di Harviken.md",
+    "fileName": "Enrel an Otho",
+    "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Enrel an Otho.md",
     "backlinks": [
       {
-        "fileName": "Circolo della Terra - Ard Skellig",
-        "link": "Iseldir di Harviken",
-        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md"
+        "fileName": "Taygete Fraser",
+        "link": "Enrel an Otho",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
+        "displayText": "../Circolo delle Stelle - Spikeroog/Enrel an Otho"
+      },
+      {
+        "fileName": "Circolo delle Stelle - Spikeroog",
+        "link": "Enrel an Otho",
+        "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Circolo delle Stelle - Spikeroog.md"
       }
     ]
   },
@@ -1265,6 +1254,17 @@
       {
         "fileName": "Circolo della Terra - Ard Skellig",
         "link": "Vocedeimonti",
+        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Iseldir di Harviken",
+    "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Iseldir di Harviken.md",
+    "backlinks": [
+      {
+        "fileName": "Circolo della Terra - Ard Skellig",
+        "link": "Iseldir di Harviken",
         "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md"
       }
     ]
@@ -1292,6 +1292,17 @@
     ]
   },
   {
+    "fileName": "Boscoargenteo",
+    "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Boscoargenteo.md",
+    "links": [
+      {
+        "link": "Hindarfsjall",
+        "displayText": "../../Luoghi/Skellige Islands/Hindarfsjall",
+        "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md"
+      }
+    ]
+  },
+  {
     "fileName": "Circolo della Luna - Hindarfsjall",
     "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall.md",
     "backlinks": [
@@ -1300,17 +1311,6 @@
         "link": "Circolo della Luna - Hindarfsjall",
         "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md",
         "displayText": "../../NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall"
-      }
-    ]
-  },
-  {
-    "fileName": "Boscoargenteo",
-    "relativePath": "Campagna/NPCs/Circolo della Luna - Hindarfsjall/Boscoargenteo.md",
-    "links": [
-      {
-        "link": "Hindarfsjall",
-        "displayText": "../../Luoghi/Skellige Islands/Hindarfsjall",
-        "relativePath": "Campagna/Luoghi/Skellige Islands/Hindarfsjall.md"
       }
     ]
   },
@@ -1378,18 +1378,6 @@
     ]
   },
   {
-    "fileName": "Monte Gorgone",
-    "relativePath": "Campagna/Luoghi/Toussaint/Monte Gorgone.md",
-    "backlinks": [
-      {
-        "fileName": "Obelischi",
-        "link": "Monte Gorgone",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Toussaint/Monte Gorgone"
-      }
-    ]
-  },
-  {
     "fileName": "Mahakam",
     "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md",
     "links": [
@@ -1430,6 +1418,30 @@
         "link": "Isola di Thanedd",
         "relativePath": "Campagna/Luoghi/Obelischi.md",
         "displayText": "Temeria/Isola di Thanedd"
+      }
+    ]
+  },
+  {
+    "fileName": "Monte Gorgone",
+    "relativePath": "Campagna/Luoghi/Toussaint/Monte Gorgone.md",
+    "backlinks": [
+      {
+        "fileName": "Obelischi",
+        "link": "Monte Gorgone",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Toussaint/Monte Gorgone"
+      }
+    ]
+  },
+  {
+    "fileName": "Skellige Islands",
+    "relativePath": "Campagna/Luoghi/Skellige Islands/Skellige Islands.md",
+    "backlinks": [
+      {
+        "fileName": "Crados An Craite",
+        "link": "Skellige Islands",
+        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Crados An Craite.md",
+        "displayText": "../../../Luoghi/Skellige Islands/Skellige Islands"
       }
     ]
   },
@@ -1489,18 +1501,6 @@
         "link": "Spikeroog",
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/Clan Fraser.md",
         "displayText": "../../../Luoghi/Skellige Islands/Spikeroog"
-      }
-    ]
-  },
-  {
-    "fileName": "Skellige Islands",
-    "relativePath": "Campagna/Luoghi/Skellige Islands/Skellige Islands.md",
-    "backlinks": [
-      {
-        "fileName": "Crados An Craite",
-        "link": "Skellige Islands",
-        "relativePath": "Campagna/NPCs/Clan Skellige/Clan An Craite/Crados An Craite.md",
-        "displayText": "../../../Luoghi/Skellige Islands/Skellige Islands"
       }
     ]
   },
@@ -1671,6 +1671,40 @@
     ]
   },
   {
+    "fileName": "Redania - Roggeven",
+    "relativePath": "Campagna/Luoghi/Redania/Redania - Roggeven.md",
+    "links": [
+      {
+        "link": "Redania - Isola di Inis",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
+      },
+      {
+        "link": "Roggeven",
+        "displayText": "../../NPCs/Roggeven/Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Roggeven.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sheila Coppertree",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
+        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
+      },
+      {
+        "fileName": "Benji Frogwater",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/NPCs/Roggeven/Benji Frogwater.md",
+        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
+      },
+      {
+        "fileName": "Redania - Isola di Inis",
+        "link": "Redania - Roggeven",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
+      }
+    ]
+  },
+  {
     "fileName": "Redania - Scuola di Baldhorn",
     "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md",
     "links": [
@@ -1723,15 +1757,15 @@
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
       },
       {
-        "fileName": "Taygete Fraser",
-        "link": "Redania - Scuola di Baldhorn",
-        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
-        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
-      },
-      {
         "fileName": "Werdle Xortu",
         "link": "Redania - Scuola di Baldhorn",
         "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
+        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
+      },
+      {
+        "fileName": "Taygete Fraser",
+        "link": "Redania - Scuola di Baldhorn",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
       },
       {
@@ -1743,36 +1777,21 @@
     ]
   },
   {
-    "fileName": "Redania - Roggeven",
-    "relativePath": "Campagna/Luoghi/Redania/Redania - Roggeven.md",
+    "fileName": "Redania - Largo di Novigrad",
+    "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
     "links": [
       {
-        "link": "Redania - Isola di Inis",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
-      },
-      {
-        "link": "Roggeven",
-        "displayText": "../../NPCs/Roggeven/Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Roggeven.md"
+        "link": "Obelischi",
+        "displayText": "../Obelischi",
+        "relativePath": "Campagna/Luoghi/Obelischi.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Sheila Coppertree",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Sheila Coppertree.md",
-        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
-      },
-      {
-        "fileName": "Benji Frogwater",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/NPCs/Roggeven/Benji Frogwater.md",
-        "displayText": "../../Luoghi/Redania/Redania - Roggeven"
-      },
-      {
-        "fileName": "Redania - Isola di Inis",
-        "link": "Redania - Roggeven",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Isola di Inis.md"
+        "fileName": "Obelischi",
+        "link": "Redania - Largo di Novigrad",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Redania/Redania - Largo di Novigrad"
       }
     ]
   },
@@ -1787,18 +1806,6 @@
       }
     ],
     "backlinks": [
-      {
-        "fileName": "Thrmon Aavind",
-        "link": "Redania - Novigrad",
-        "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
-      },
-      {
-        "fileName": "Alberich Fireforge",
-        "link": "Redania - Novigrad",
-        "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
-      },
       {
         "fileName": "Ron Demollert",
         "link": "Redania - Novigrad",
@@ -1828,25 +1835,18 @@
         "link": "Redania - Novigrad",
         "relativePath": "Campagna/NPCs/Novigrad/Dudu Biberveldt.md",
         "displayText": "../../Luoghi/Redania/Redania - Novigrad"
-      }
-    ]
-  },
-  {
-    "fileName": "Redania - Largo di Novigrad",
-    "relativePath": "Campagna/Luoghi/Redania/Redania - Largo di Novigrad.md",
-    "links": [
+      },
       {
-        "link": "Obelischi",
-        "displayText": "../Obelischi",
-        "relativePath": "Campagna/Luoghi/Obelischi.md"
-      }
-    ],
-    "backlinks": [
+        "fileName": "Thrmon Aavind",
+        "link": "Redania - Novigrad",
+        "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
+      },
       {
-        "fileName": "Obelischi",
-        "link": "Redania - Largo di Novigrad",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Redania/Redania - Largo di Novigrad"
+        "fileName": "Alberich Fireforge",
+        "link": "Redania - Novigrad",
+        "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
       }
     ]
   },
@@ -2026,15 +2026,15 @@
         "displayText": "../Obelischi"
       },
       {
-        "fileName": "Kaedwen - Loc Muinne",
-        "link": "Obelischi",
-        "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Loc Muinne.md",
-        "displayText": "../Obelischi"
-      },
-      {
         "fileName": "Torre dei venti",
         "link": "Obelischi",
         "relativePath": "Campagna/Luoghi/Etolia/Torre dei venti.md",
+        "displayText": "../Obelischi"
+      },
+      {
+        "fileName": "Kaedwen - Loc Muinne",
+        "link": "Obelischi",
+        "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Loc Muinne.md",
         "displayText": "../Obelischi"
       }
     ]
@@ -2069,6 +2069,25 @@
     ]
   },
   {
+    "fileName": "Torre dei venti",
+    "relativePath": "Campagna/Luoghi/Etolia/Torre dei venti.md",
+    "links": [
+      {
+        "link": "Obelischi",
+        "displayText": "../Obelischi",
+        "relativePath": "Campagna/Luoghi/Obelischi.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Obelischi",
+        "link": "Torre dei venti",
+        "relativePath": "Campagna/Luoghi/Obelischi.md",
+        "displayText": "Etolia/Torre dei venti"
+      }
+    ]
+  },
+  {
     "fileName": "Kaedwen - Loc Muinne",
     "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Loc Muinne.md",
     "links": [
@@ -2084,6 +2103,27 @@
         "link": "Kaedwen - Loc Muinne",
         "relativePath": "Campagna/Luoghi/Obelischi.md",
         "displayText": "Kaedwen/Kaedwen - Loc Muinne"
+      }
+    ]
+  },
+  {
+    "fileName": "Kaedwen - Ard  Carraigh",
+    "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Ard  Carraigh.md",
+    "links": [
+      {
+        "link": "Morgran Vivaldi",
+        "displayText": "../../NPCs/Novigrad/Morgran Vivaldi",
+        "relativePath": "Campagna/NPCs/Novigrad/Morgran Vivaldi.md"
+      },
+      {
+        "link": "Novigrad",
+        "displayText": "../../NPCs/Novigrad/Novigrad",
+        "relativePath": "Campagna/NPCs/Novigrad/Novigrad.md"
+      },
+      {
+        "link": "Kaer Morhen",
+        "displayText": "../../NPCs/Kaer Morhen/Kaer Morhen",
+        "relativePath": "Campagna/NPCs/Kaer Morhen/Kaer Morhen.md"
       }
     ]
   },
@@ -2135,15 +2175,15 @@
         "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
       },
       {
-        "fileName": "Nicolas",
-        "link": "Kaedwen - Kaer Morhen",
-        "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nicolas.md",
-        "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
-      },
-      {
         "fileName": "Nyx",
         "link": "Kaedwen - Kaer Morhen",
         "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nyx.md",
+        "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
+      },
+      {
+        "fileName": "Nicolas",
+        "link": "Kaedwen - Kaer Morhen",
+        "relativePath": "Campagna/NPCs/Kaer Morhen/Consiglio dei 9 - Artiglio del Drago/Nicolas.md",
         "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
       },
       {
@@ -2181,46 +2221,6 @@
         "link": "Kaedwen - Kaer Morhen",
         "relativePath": "Campagna/NPCs/Clan Skellige/Cadman Heymaey/Brianna Heymaey.md",
         "displayText": "../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen"
-      }
-    ]
-  },
-  {
-    "fileName": "Kaedwen - Ard  Carraigh",
-    "relativePath": "Campagna/Luoghi/Kaedwen/Kaedwen - Ard  Carraigh.md",
-    "links": [
-      {
-        "link": "Morgran Vivaldi",
-        "displayText": "../../NPCs/Novigrad/Morgran Vivaldi",
-        "relativePath": "Campagna/NPCs/Novigrad/Morgran Vivaldi.md"
-      },
-      {
-        "link": "Novigrad",
-        "displayText": "../../NPCs/Novigrad/Novigrad",
-        "relativePath": "Campagna/NPCs/Novigrad/Novigrad.md"
-      },
-      {
-        "link": "Kaer Morhen",
-        "displayText": "../../NPCs/Kaer Morhen/Kaer Morhen",
-        "relativePath": "Campagna/NPCs/Kaer Morhen/Kaer Morhen.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Torre dei venti",
-    "relativePath": "Campagna/Luoghi/Etolia/Torre dei venti.md",
-    "links": [
-      {
-        "link": "Obelischi",
-        "displayText": "../Obelischi",
-        "relativePath": "Campagna/Luoghi/Obelischi.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Obelischi",
-        "link": "Torre dei venti",
-        "relativePath": "Campagna/Luoghi/Obelischi.md",
-        "displayText": "Etolia/Torre dei venti"
       }
     ]
   }
