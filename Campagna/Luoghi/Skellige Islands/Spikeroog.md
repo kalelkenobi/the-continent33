@@ -1,5 +1,5 @@
 - [[../../NPCs/Clan Fraser]]
-- casa di [[../../NPCs/Morso di rame/Tiggy]] e [[../../NPCs/Clan Skellige/Clan Fraser/James Fraser]]
+- casa di [[../../NPCs/Morso di rame/Taygete Fraser]] e [[../../NPCs/Clan Skellige/Clan Fraser/James Fraser]]
 - circolo druidico delle stelle ([[../../NPCs/Circolo delle Stelle - Spikeroog/Circolo delle Stelle - Spikeroog]] )
 - Svorlag - cittá del [[../../NPCs/Clan Fraser]] (taverna, campi coltivati e allevamenti). si trova in una baia
 - Old Watchtower - casa del circolo druidico delle stelle

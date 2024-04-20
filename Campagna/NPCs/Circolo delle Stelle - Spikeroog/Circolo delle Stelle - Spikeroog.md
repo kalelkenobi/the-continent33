@@ -1,1 +1,1 @@
-Primo Druido - [[Enrel an Otho]], un'elfa molto vecchia
+- Primo Druido - [[Enrel an Otho]], un'elfa molto vecchia

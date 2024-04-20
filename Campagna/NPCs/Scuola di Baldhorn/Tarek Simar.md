@@ -1,3 +1,4 @@
+![[../../../media/Tarek Simar.png]]
 - Genasi dell'aria
 - Vicepreside della [[../../Luoghi/Redania/Redania - Scuola di Baldhorn]]
 - Insegnante di Abiuzarione Generale

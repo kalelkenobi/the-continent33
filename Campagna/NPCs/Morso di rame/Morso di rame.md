@@ -1,0 +1,1 @@
+![[../../../media/I'm Just a Kid.jpg]]

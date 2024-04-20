@@ -1,0 +1,1 @@
+![[../../../media/Ralphuccio.png]]

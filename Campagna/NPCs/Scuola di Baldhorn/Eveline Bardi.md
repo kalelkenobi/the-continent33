@@ -1,3 +1,4 @@
+![[../../../media/Eveline Bardi.png]]
 - Umana dai capelli rosa
 - preside della [[../../Luoghi/Redania/Redania - Scuola di Baldhorn]] 
 - Aracanista famosa

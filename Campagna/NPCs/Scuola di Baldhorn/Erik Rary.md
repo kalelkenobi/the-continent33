@@ -1,3 +1,4 @@
+![[../../../media/Erik Rary.png]]
 - gnomo
 - druido
 - insegnante di divinazione e tradizioni druidiche

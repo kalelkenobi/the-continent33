@@ -1,5 +1,40 @@
 [
   {
+    "fileName": "Thrmon Aavind",
+    "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
+    "links": [
+      {
+        "link": "Redania - Novigrad",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Alberich Fireforge",
+    "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
+    "links": [
+      {
+        "link": "Redania - Novigrad",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
+      },
+      {
+        "link": "Mahakam",
+        "displayText": "../../Luoghi/Temeria/Mahakam",
+        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Zelda Meinard",
+    "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Zelda Meinard.md"
+  },
+  {
+    "fileName": "Heidar Leifson",
+    "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Heidar Leifson.md"
+  },
+  {
     "fileName": "Vince Stellar",
     "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Vince Stellar.md",
     "links": [
@@ -64,10 +99,6 @@
     ]
   },
   {
-    "fileName": "Heidar",
-    "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Heidar.md"
-  },
-  {
     "fileName": "Eveline Bardi",
     "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Eveline Bardi.md",
     "links": [
@@ -108,9 +139,9 @@
     "relativePath": "Campagna/NPCs/Scuola di Baldhorn/Erik Rary.md",
     "backlinks": [
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "Erik Rary",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../Scuola di Baldhorn/Erik Rary"
       }
     ]
@@ -275,9 +306,9 @@
     "relativePath": "Campagna/NPCs/Nimue.md",
     "links": [
       {
-        "link": "Tiggy",
-        "displayText": "Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "James Fraser",
@@ -285,16 +316,16 @@
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
       },
       {
-        "link": "Tiggy",
-        "displayText": "Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       }
     ],
     "backlinks": [
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "Nimue",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../Nimue"
       },
       {
@@ -305,27 +336,12 @@
     ]
   },
   {
-    "fileName": "Werdle Xortu",
-    "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
-    "links": [
-      {
-        "link": "Redania - Scuola di Baldhorn",
-        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Rake",
-        "link": "Werdle Xortu",
-        "relativePath": "Campagna/NPCs/Kaer Morhen/Rake.md",
-        "displayText": "Morso di rame/Werdle Xortu"
-      }
-    ]
+    "fileName": "Morso di rame",
+    "relativePath": "Campagna/NPCs/Morso di rame/Morso di rame.md"
   },
   {
-    "fileName": "Tiggy",
-    "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+    "fileName": "Taygete Fraser",
+    "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
     "links": [
       {
         "link": "James Fraser",
@@ -336,6 +352,10 @@
         "link": "Nimue",
         "displayText": "../Nimue",
         "relativePath": "Campagna/NPCs/Nimue.md"
+      },
+      {
+        "link": "Kelon an Craite",
+        "relativePath": "Campagna/NPCs/Morso di rame/Kelon an Craite.md"
       },
       {
         "link": "Clan Fraser",
@@ -360,64 +380,68 @@
         "link": "Enrel an Otho",
         "displayText": "../Circolo delle Stelle - Spikeroog/Enrel an Otho",
         "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Enrel an Otho.md"
-      },
-      {
-        "link": "Kelon an Craite",
-        "relativePath": "Campagna/NPCs/Morso di rame/Kelon an Craite.md"
       }
     ],
     "backlinks": [
       {
         "fileName": "Nimue",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/Nimue.md",
-        "displayText": "Morso di rame/Tiggy"
+        "displayText": "Morso di rame/Taygete Fraser"
       },
       {
         "fileName": "Nimue",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/Nimue.md",
-        "displayText": "Morso di rame/Tiggy"
+        "displayText": "Morso di rame/Taygete Fraser"
       },
       {
         "fileName": "Kelon an Craite",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/Morso di rame/Kelon an Craite.md"
       },
       {
         "fileName": "Sarin",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/616/Sarin.md",
-        "displayText": "../Morso di rame/Tiggy"
+        "displayText": "../Morso di rame/Taygete Fraser"
       },
       {
         "fileName": "Rex",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/616/Rex.md",
-        "displayText": "../Morso di rame/Tiggy"
+        "displayText": "../Morso di rame/Taygete Fraser"
       },
       {
         "fileName": "Clayton",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/NPCs/616/Clayton.md",
-        "displayText": "../Morso di rame/Tiggy"
+        "displayText": "../Morso di rame/Taygete Fraser"
       },
       {
         "fileName": "Spikeroog",
-        "link": "Tiggy",
+        "link": "Taygete Fraser",
         "relativePath": "Campagna/Luoghi/Skellige Islands/Spikeroog.md",
-        "displayText": "../../NPCs/Morso di rame/Tiggy"
+        "displayText": "../../NPCs/Morso di rame/Taygete Fraser"
       }
     ]
   },
   {
-    "fileName": "Thrmon Aavind",
-    "relativePath": "Campagna/NPCs/Morso di rame/Thrmon Aavind.md",
+    "fileName": "Werdle Xortu",
+    "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
     "links": [
       {
-        "link": "Redania - Novigrad",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
+        "link": "Redania - Scuola di Baldhorn",
+        "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn",
+        "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rake",
+        "link": "Werdle Xortu",
+        "relativePath": "Campagna/NPCs/Kaer Morhen/Rake.md",
+        "displayText": "Morso di rame/Werdle Xortu"
       }
     ]
   },
@@ -451,8 +475,8 @@
         "relativePath": "Campagna/NPCs/Clan Skellige/Clan Fraser/James Fraser.md"
       },
       {
-        "link": "Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "James Fraser",
@@ -467,9 +491,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "Kelon an Craite",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "fileName": "Ulvana Tuirseach",
@@ -574,22 +598,6 @@
         "link": "Redania - Scuola di Baldhorn",
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn",
         "relativePath": "Campagna/Luoghi/Redania/Redania - Scuola di Baldhorn.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Alberich Fireforge",
-    "relativePath": "Campagna/NPCs/Morso di rame/Alberich Fireforge.md",
-    "links": [
-      {
-        "link": "Redania - Novigrad",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad",
-        "relativePath": "Campagna/Luoghi/Redania/Redania - Novigrad.md"
-      },
-      {
-        "link": "Mahakam",
-        "displayText": "../../Luoghi/Temeria/Mahakam",
-        "relativePath": "Campagna/Luoghi/Temeria/Mahakam.md"
       }
     ]
   },
@@ -1006,9 +1014,9 @@
         "displayText": "Clan Skellige/Clan Fraser/James Fraser"
       },
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "James Fraser",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../Clan Skellige/Clan Fraser/James Fraser"
       },
       {
@@ -1209,9 +1217,9 @@
     "relativePath": "Campagna/NPCs/Circolo delle Stelle - Spikeroog/Enrel an Otho.md",
     "backlinks": [
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "Enrel an Otho",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../Circolo delle Stelle - Spikeroog/Enrel an Otho"
       },
       {
@@ -1240,12 +1248,40 @@
     ]
   },
   {
+    "fileName": "Iseldir di Harviken",
+    "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Iseldir di Harviken.md",
+    "backlinks": [
+      {
+        "fileName": "Circolo della Terra - Ard Skellig",
+        "link": "Iseldir di Harviken",
+        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md"
+      }
+    ]
+  },
+  {
     "fileName": "Vocedeimonti",
-    "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Vocedeimonti.md"
+    "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Vocedeimonti.md",
+    "backlinks": [
+      {
+        "fileName": "Circolo della Terra - Ard Skellig",
+        "link": "Vocedeimonti",
+        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md"
+      }
+    ]
   },
   {
     "fileName": "Circolo della Terra - Ard Skellig",
     "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig.md",
+    "links": [
+      {
+        "link": "Vocedeimonti",
+        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Vocedeimonti.md"
+      },
+      {
+        "link": "Iseldir di Harviken",
+        "relativePath": "Campagna/NPCs/Circolo della Terra - Ard Skellig/Iseldir di Harviken.md"
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Ard Skellig",
@@ -1283,9 +1319,9 @@
     "relativePath": "Campagna/NPCs/616/Sarin.md",
     "links": [
       {
-        "link": "Tiggy",
-        "displayText": "../Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "../Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "Kelon an Craite",
@@ -1304,9 +1340,9 @@
     "relativePath": "Campagna/NPCs/616/Rex.md",
     "links": [
       {
-        "link": "Tiggy",
-        "displayText": "../Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "../Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "Kelon an Craite",
@@ -1325,9 +1361,9 @@
     "relativePath": "Campagna/NPCs/616/Clayton.md",
     "links": [
       {
-        "link": "Tiggy",
-        "displayText": "../Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "../Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "Kelon an Craite",
@@ -1367,7 +1403,7 @@
       {
         "fileName": "Alberich Fireforge",
         "link": "Mahakam",
-        "relativePath": "Campagna/NPCs/Morso di rame/Alberich Fireforge.md",
+        "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
         "displayText": "../../Luoghi/Temeria/Mahakam"
       },
       {
@@ -1416,9 +1452,9 @@
         "displayText": "../../NPCs/Clan Fraser"
       },
       {
-        "link": "Tiggy",
-        "displayText": "../../NPCs/Morso di rame/Tiggy",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md"
+        "link": "Taygete Fraser",
+        "displayText": "../../NPCs/Morso di rame/Taygete Fraser",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md"
       },
       {
         "link": "James Fraser",
@@ -1437,9 +1473,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "Tiggy",
+        "fileName": "Taygete Fraser",
         "link": "Spikeroog",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../../Luoghi/Skellige Islands/Spikeroog"
       },
       {
@@ -1687,15 +1723,15 @@
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
       },
       {
-        "fileName": "Werdle Xortu",
+        "fileName": "Taygete Fraser",
         "link": "Redania - Scuola di Baldhorn",
-        "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Taygete Fraser.md",
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
       },
       {
-        "fileName": "Tiggy",
+        "fileName": "Werdle Xortu",
         "link": "Redania - Scuola di Baldhorn",
-        "relativePath": "Campagna/NPCs/Morso di rame/Tiggy.md",
+        "relativePath": "Campagna/NPCs/Morso di rame/Werdle Xortu.md",
         "displayText": "../../Luoghi/Redania/Redania - Scuola di Baldhorn"
       },
       {
@@ -1752,6 +1788,18 @@
     ],
     "backlinks": [
       {
+        "fileName": "Thrmon Aavind",
+        "link": "Redania - Novigrad",
+        "relativePath": "Campagna/NPCs/Ex-Gruppo/Thrmon Aavind.md",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
+      },
+      {
+        "fileName": "Alberich Fireforge",
+        "link": "Redania - Novigrad",
+        "relativePath": "Campagna/NPCs/Ex-Gruppo/Alberich Fireforge.md",
+        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
+      },
+      {
         "fileName": "Ron Demollert",
         "link": "Redania - Novigrad",
         "relativePath": "Campagna/NPCs/Novigrad/Ron Demollert.md",
@@ -1779,18 +1827,6 @@
         "fileName": "Dudu Biberveldt",
         "link": "Redania - Novigrad",
         "relativePath": "Campagna/NPCs/Novigrad/Dudu Biberveldt.md",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
-      },
-      {
-        "fileName": "Thrmon Aavind",
-        "link": "Redania - Novigrad",
-        "relativePath": "Campagna/NPCs/Morso di rame/Thrmon Aavind.md",
-        "displayText": "../../Luoghi/Redania/Redania - Novigrad"
-      },
-      {
-        "fileName": "Alberich Fireforge",
-        "link": "Redania - Novigrad",
-        "relativePath": "Campagna/NPCs/Morso di rame/Alberich Fireforge.md",
         "displayText": "../../Luoghi/Redania/Redania - Novigrad"
       }
     ]
