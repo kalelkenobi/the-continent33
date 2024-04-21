@@ -1,6 +1,6 @@
  ![[../../media/nimue.png]]
-- Ninfa - divinitá minore dell'acqua
-- madre di [[Morso di rame/Taygete Fraser]] ([[Clan Skellige/Clan Fraser/James Fraser]])
+- Ninfa - divinità minore dell'acqua
+- madre di [[Morso di rame/Taygete Fraser]] ([[Skellige/Clan Fraser/James Fraser]])
 - detta "lady of the lake"
 - informazioni date a [[Morso di rame/Taygete Fraser]]: 
 	- "l'ordine diventa caos"

@@ -2,11 +2,11 @@
 
 - umano, 35 anni
 - guerriero
-- originario di [[../../Luoghi/Skellige Islands/Kaer Trolde]], [[../../Luoghi/Skellige Islands/Ard Skellig]] 
-- figlio di [[../Clan Skellige/Clan Tuirseach/Ulvana Tuirseach]] e [[../Clan Skellige/Clan An Craite/Crados An Craite]], si scopre poi essere il vero figlio di [[../Clan Skellige/Clan Fraser/James Fraser]] 
+- originario di [[../../Luoghi/Skellige Islands/Ard Skellig/Kaer Trolde]], [[../../Luoghi/Skellige Islands/Ard Skellig/Ard Skellig]] 
+- figlio di [[../Skellige/Clan Tuirseach/Ulvana Tuirseach]] e [[../Skellige/Clan An Craite/Crados An Craite]], si scopre poi essere il vero figlio di [[../Skellige/Clan Fraser/James Fraser]] 
 ![[../../../media/James e Kelon.png|200]]
 - fratello di [[Taygete Fraser]]
 - cavallo: Jasper???
-- é stato addestrato da [[../Clan Skellige/Clan Fraser/James Fraser]] 
-- ha ucciso il padre [[../Clan Skellige/Clan An Craite/Crados An Craite]] 
+- é stato addestrato da [[../Skellige/Clan Fraser/James Fraser]] 
+- ha ucciso il padre [[../Skellige/Clan An Craite/Crados An Craite]] 
 - era sposato con Kai

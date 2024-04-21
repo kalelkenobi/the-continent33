@@ -1,1 +1,0 @@
-clan di [[../../../Luoghi/Skellige Islands/Hindarfsjall]] 

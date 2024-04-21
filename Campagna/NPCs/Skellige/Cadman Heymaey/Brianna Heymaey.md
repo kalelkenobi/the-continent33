@@ -1,4 +1,4 @@
-- originaria di [[../../../Luoghi/Skellige Islands/Hindarfsjall]] 
+- originaria di [[../../../Luoghi/Skellige Islands/Hindarfsjall/Hindarfsjall]] 
 - figlia di [[Cadman Heymaey]] 
 - druida
 - conosciuta a [[../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen]] 

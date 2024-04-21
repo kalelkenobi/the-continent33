@@ -1,0 +1,2 @@
+- villaggio visitato dal gruppo per investigare per conto di [[../../../NPCs/Skellige/Clan Tuirseach/Ulvana Tuirseach]] su delle strane morti che stavano avvenendo. Queste morti erano provocate da una creatura chiamata Echimmara
+- capo villaggio [[../../../NPCs/Skellige/Farah]] 

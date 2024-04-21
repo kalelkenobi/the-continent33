@@ -1,6 +1,6 @@
 - [[Redania/Redania - Isola di Inis]] 
 - [[Temeria/Isola di Thanedd]] 
-- [[Skellige Islands/Isle of Mist]] 
+- [[Skellige Islands/Isle of Mist/Isle of Mist]] 
 - [[Kaedwen/Kaedwen - Loc Muinne]]
 - [[Redania/Redania - Largo di Novigrad]] 
 - [[Temeria/Mahakam]] 

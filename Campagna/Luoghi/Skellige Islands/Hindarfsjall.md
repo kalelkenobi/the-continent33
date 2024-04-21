@@ -1,6 +1,0 @@
-- [[../../NPCs/Clan Heymaey]] 
-- isola visitata dal gruppo per investigare per conto di [[../../NPCs/Clan Skellige/Clan Tuirseach/Ulvana Tuirseach]] su delle strane morti che stavano avvendendo. Queste morti erano provocate da una creatura chiamata Echimmara
-- il gruppo ha fatto base a Lofoten, villaggio in cui sono avvenute le morti
-- circolo della luna ([[../../NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall]] )
-- capo villaggio Farah
-- 

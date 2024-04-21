@@ -1,7 +1,7 @@
 - Isola al largo di [[Redania - Roggeven]] 
 - visitata per investigare sul naufragio della Leone di Giada, nave di [[../../NPCs/Roggeven/Benji Frogwater]] 
 - - uno degli [[../Obelischi]] conosciuti
-- su questa isola incontrano [[../../NPCs/Kaer Morhen/Lucien Skyhorn]] (o comunque il suo cadavere e chi si spaccia per lui) e trovano le prove di una comunicazione tra [[../../NPCs/Isola di Inis/Clarota]] e [[../../NPCs/Isola di Inis/Malachai]] 
+- su questa isola incontrano [[../../NPCs/Roggeven/Lucien Skyhorn]] (o comunque il suo cadavere e chi si spaccia per lui) e trovano le prove di una comunicazione tra [[../../NPCs/Isola di Inis/Clarota]] e [[../../NPCs/Isola di Inis/Malachai]] 
 - da questa conversazione si capisce che secondo loro il portale é un obelisco
 - su questa isola trovano anche un dispositivo meccanico con una componente arcana su cui é disegnato un oroboro e una gemma rossa ([[../../NPCs/Isola di Inis/Clarota]])
 - Lista NPCs incontrati [[../../NPCs/Isola di Inis/Isola di Inis]] 

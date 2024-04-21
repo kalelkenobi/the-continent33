@@ -1,0 +1,2 @@
+- [[../../NPCs/Clan Heymaey]] 
+- circolo della luna ([[../../../NPCs/Circolo della Luna - Hindarfsjall/Circolo della Luna - Hindarfsjall]] )
