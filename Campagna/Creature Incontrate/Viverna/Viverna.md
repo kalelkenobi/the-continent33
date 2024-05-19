@@ -1,0 +1,3 @@
+- Luoghi di avvistamento:
+	- [[../../NPCs/Morso di rame/Morso di rame]] - a largo tra l'[[../../NPCs/Isola di Inis/Isola di Inis]] e [[../../NPCs/Roggeven/Roggeven]] 
+	- [[../../NPCs/Skellige/Clan Fraser/James Fraser]] - [[../../Luoghi/Skellige Islands/Ard Skellig/Kaer Trolde]] 

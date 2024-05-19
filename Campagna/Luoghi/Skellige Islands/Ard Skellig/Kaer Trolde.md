@@ -1,0 +1,8 @@
+- Capitale di [[Ard Skellig]] 
+- Casa del [[../../../NPCs/Skellige/Clan An Craite/Clan An Craite]] 
+- Sede del palazzo reale. Attuale regina [[../../../NPCs/Skellige/Clan Tuirseach/Ulvana Tuirseach]] 
+- Casa di [[../../../NPCs/Morso di rame/Kelon an Craite]] 
+- Circolo druidico: [[../../../NPCs/Circolo della Terra - Ard Skellig/Circolo della Terra - Ard Skellig]] 
+- Luoghi di interesse:
+	- Il riposo del Re Topo - taverna in cui si incontrano le [[../../../NPCs/Skellige/Ombre Cremisi/Ombre Cremisi]] 
+	- Il favore di Freya - locanda/bordello in cui sostano [[../../../NPCs/Skellige/Clan An Craite/Bjorr an Craite]] e quelli del suo [[../../../NPCs/Skellige/Clan An Craite/Clan An Craite]] quando sono in città
