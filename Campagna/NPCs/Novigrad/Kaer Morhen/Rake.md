@@ -1,0 +1,3 @@
+- elfo moro dagli occhi verdi
+- presente sia nei ricordi di [[../../Morso di rame/Kazur Jackdaws]] ambientati 300 anni prima nel momento in cui suo padre ha chiesto a Cirilla di portare l'uovo nel futuro, sia nell'attuale [[../../../Luoghi/Kaedwen/Kaedwen - Kaer Morhen]] 
+- la sua descrizione ricorda a Tiggy quella dell'elfo che é apparso ad Ambrolfin prima di diventare [[Morso di rame/Werdle Xortu]] 

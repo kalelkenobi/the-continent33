@@ -1,1 +1,1 @@
-- cittadina in cui il gruppo arriva via portale ([[../../NPCs/Novigrad/Morgran Vivaldi]] ) da [[../../NPCs/Novigrad/Novigrad]] quando viaggia verso [[../../NPCs/Kaer Morhen/Kaer Morhen]] 
+- cittadina in cui il gruppo arriva via portale ([[../../NPCs/Novigrad/Morgran Vivaldi]] ) da [[../../NPCs/Novigrad/Novigrad]] quando viaggia verso [[../../NPCs/Novigrad/Kaer Morhen/Kaer Morhen]] 

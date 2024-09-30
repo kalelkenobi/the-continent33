@@ -1,0 +1,3 @@
+- umano, giovane
+- catturato dal gruppo nella miniera sull'isola di [[../../../Luoghi/Skellige Islands/Kaer Almhult/Kaer Almhult]]
+- grazie alla lettura dei pensieri da parte di [[../../Morso di rame/Amaranth Van Gruus]], si è scoperto che è stato incaricato da [[../../Isola di Inis/Malachai]] di seguire gli ordini di [[../Clan An Craite/Bjorr an Craite]]. In questo ricordo, [[../../Isola di Inis/Malachai]] ha il volto di [[../../616/Rex]]

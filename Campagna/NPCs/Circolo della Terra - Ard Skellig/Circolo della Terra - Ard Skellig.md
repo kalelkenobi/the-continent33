@@ -1,2 +1,2 @@
 - [[Vocedeimonti]] 
-- [[Iseldir di Harviken]] - l'unguento che sta dando a [[../Skellige/Clan Fraser/James Fraser]]  per curare le ferite contiene veleno di viverna
+- [[Iseldir di Harviken]] - l'unguento che sta dando a [[../Skellige/Clan Fraser/James Fraser]]  per curare le ferite contiene veleno di viverna.  Tradisce il gruppo nella miniera dell' isola di [[../../Luoghi/Skellige Islands/Kaer Almhult/Kaer Almhult]]

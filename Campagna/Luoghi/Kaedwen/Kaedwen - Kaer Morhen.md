@@ -1,2 +1,2 @@
 - sede dell'ordine del drago d'oro
-- Lista NPCs conosciuti lí: [[../../NPCs/Kaer Morhen/Kaer Morhen]] 
+- Lista NPCs conosciuti lí: [[../../NPCs/Novigrad/Kaer Morhen/Kaer Morhen]] 
