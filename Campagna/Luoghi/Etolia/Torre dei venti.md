@@ -1,1 +1,1 @@
-- uno degli [[../Obelischi]] conosciuti
+- uno degli [[../Skellige Islands/Obelischi]] conosciuti
